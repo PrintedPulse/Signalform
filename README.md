@@ -1,2 +1,6 @@
-# Signalform-
-3D-printed hi-fi Bluetooth boombox — open source, CC BY 4.0
+/files
+  signalform.3mf          — full print project (Bambu Studio)
+  signalform-bom.csv      — complete bill of materials with part numbers
+/docs
+  assembly-guide.md       — step-by-step build instructions
+LICENSE                   — CC BY 4.0
